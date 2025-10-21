@@ -11,6 +11,7 @@ Computes the average mark of all subjects.
 Assigns grades like A, B, C, or Fail based on average marks.
 5. Result Display:
 Shows total marks, average, and grade clearly to the user.
+Tech Stack: Java
 
 
 
